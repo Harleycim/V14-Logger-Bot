@@ -1,0 +1,21 @@
+{
+  "name": "v14-logger-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 + discord-logs logger botu",
+  "main": "harley.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.0",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
